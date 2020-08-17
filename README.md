@@ -29,3 +29,13 @@ Arena diameter = 95 cm
 
 The function plotTrajectories.m can be used to plot an animation of the search.
 
+
+Codes for foraging simulations:
+
+Download the toolbox file – foragingModel.zip to your local computer 
+
+Use the DemoRunForagingSimulation.m file learn how to use the simulation code. No installation needed – just change the correct folder path to the data and code in the .m demo file. 
+
+
+For comments, bugs detected or questions please contact Roy Harpaz at harpazon[at]gmail.com
+
